@@ -3,6 +3,7 @@
 This script scrapes images from users and then repost them under your Instagram accounts with your own tags. 
 
 To install script:
+
 git clone https://github.com/reliefs/Instagram-scraper-with-autopost.git
 
 cd Instagram-scraper-with-autopost
